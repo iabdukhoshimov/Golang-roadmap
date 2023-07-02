@@ -152,3 +152,74 @@
 ### 2.18 Panic, Defer and Recover
 
 - [More](https://gobyexample.com/panic)
+
+## Relational database (PostgreSQL)
+
+### 3.1. Install PostgreSQL
+
+- [ ] [Download](https://www.postgresql.org/download/) and install PostgreSQL
+- [ ] RDBMS benefits and limitations
+- [ ] What are the differences between SQL and NoSQL?
+- [ ] Postgres and other RDBMS
+
+### 3.2 Basic RDBMS concepts
+
+- [ ] Data types
+- [ ] Rows, columns and tables
+- [ ] Schema
+- Read more about [schema](https://www.postgresql.org/docs/9.1/ddl-schemas.html)
+
+### 3.3 Database concepts
+
+- [ ] Data definition language (DDL)
+- [ ] Data manipulation language (DML)
+- [ ] Data control language (DCL)
+- [ ] Transaction control language (TCL)
+- [ ] Data Query Language (DQL)
+
+- Read more about [concepts](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
+
+### 3.4 Join and Union
+
+- [ ] Inner join
+- [ ] Left join
+- [ ] Right join
+- [ ] Full join
+- [ ] Union
+- [ ] Union all
+
+- Read more about [join](https://www.geeksforgeeks.org/sql-join-set-1-inner-left-right-and-full-joins/)
+
+### 3.5 Indexing
+
+- [ ] What is indexing?
+- [ ] Types of indexing
+- [ ] When to use indexing?
+- [ ] When not to use indexing?
+
+- Read more about [indexing](https://www.geeksforgeeks.org/indexing-in-databases-set-1/)
+
+### 3.6 ACID
+
+- [ ] Atomicity
+- [ ] Consistency
+- [ ] Isolation
+- [ ] Durability
+
+- Read more about [ACID](https://www.geeksforgeeks.org/acid-properties-in-dbms/)
+
+### 3.8 Functions and Triggers
+
+- [ ] What are functions?
+- [ ] What are triggers?
+- [ ] When to use functions and triggers?
+
+- Read more about [functions and triggers](https://www.geeksforgeeks.org/sql-functions/)
+
+### 3.9 Migrations
+
+- [ ] What are migrations?
+- [ ] Why do we need migrations?
+- [ ] How to use migrations?
+
+- Read more about [migrations](https://www.geeksforgeeks.org/sql-ddl-dql-dml-dcl-tcl-commands/)
