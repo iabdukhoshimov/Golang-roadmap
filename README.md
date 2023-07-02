@@ -17,7 +17,7 @@
 - [Download](https://code.visualstudio.com/download) and install VSCode
 - [Download](https://www.sublimetext.com/3) and install Sublime Text 3
 
-## 2. Basic
+## 2. Basic Syntax of Golang
 
 ### 2.1 Data types
 
